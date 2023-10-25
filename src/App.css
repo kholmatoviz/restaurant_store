@@ -1,0 +1,23 @@
+@media screen and (max-width: 768px) {
+    .slider-wrapper img {
+        height: 400px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .slider-wrapper img {
+        height: 250px;
+    }
+}
+
+.control-dots {
+    display: none;
+}
+
+.thumb img {
+    height: 60px;
+}
+
+.control-arrow {
+    display: none;
+}

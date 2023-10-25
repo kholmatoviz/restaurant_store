@@ -1,0 +1,42 @@
+{
+  "catagory": [
+    {
+      "title": "Milliy",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWW2Lj6weOOIoP0QPBpGP0fcJJyN40vBEUXQ&usqp=CAU",
+      "id": 2
+    },
+    {
+      "title": "Turk",
+      "img": "https://daryo.uz/static/2021/09/photo_2021-09-08_08-16-55.jpg",
+      "id": "2023-10-16T06:50:36.782Z"
+    }
+  ],
+  "foods": [
+    {
+      "id": 1111,
+      "name": "Chuchvara",
+      "price": 2300,
+      "img": "https://recipe-catalog.ru/wp-content/uploads/2019/01/chuchvara.jpg",
+      "desc": "Lorem ipsum sit dolar amet",
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXj5gNFdEeuYPaYZeQ5ABtjuefmrQUQXDH5g&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1mRJ6C6M35b7hyJkBofVbJFqw_1-4VG8IeA&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSorJ26A42Ou6e_tDlMNvqDBotLFUNr66S1PA&usqp=CAU"
+      ],
+      "catagoryName": "Milliy"
+    },
+    {
+      "name": "Kabob",
+      "price": "11000",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSNUodWGXVfzY83rQYBMPA6S6c0sbeNmurWQ&usqp=CAU",
+      "desc": "lorem ipsum sit dolar amet",
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSNUodWGXVfzY83rQYBMPA6S6c0sbeNmurWQ&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSNUodWGXVfzY83rQYBMPA6S6c0sbeNmurWQ&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSNUodWGXVfzY83rQYBMPA6S6c0sbeNmurWQ&usqp=CAU"
+      ],
+      "catagoryName": "Turk",
+      "id": 2222
+    }
+  ]
+}
